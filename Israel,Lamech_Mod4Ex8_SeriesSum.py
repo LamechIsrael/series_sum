@@ -2,7 +2,7 @@
 # CS 1110A - Programming in Python          #
 # Module 4 - Exercise 8 - Series Sum        #
 # Author: Lamech Israel                     #
-# Date:   01/31/2023                        #
+#                                           #
 #############################################
 
 def series_sum(n, d):
